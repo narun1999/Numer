@@ -1,0 +1,20 @@
+{
+    "user1" :{
+        "fx" : "x^4-13",
+        "xl" : "1.5",
+        "xr" : "2",
+        "id" : 1
+    },
+    "user2" :{
+        "name" : "surasit",
+        "passwprd" : "1234",
+        "occupation" : "police",
+        "id" : 2
+    },
+    "user3" :{
+        "name" : "nattakan",
+        "passwprd" : "4567",
+        "occupation" : "doctor",
+        "id" : 3
+    }
+}
