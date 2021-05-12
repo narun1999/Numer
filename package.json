@@ -13,7 +13,7 @@
     "chart.js": "^2.9.3",
     "d3": "^3.5.17",
     "function-plot": "^1.19.1",
-    "mathjs": "^6.6.0",
+    "mathjs": "^7.5.1",
     "plotly.js": "^1.52.2",
     "react": "^16.12.0",
     "react-chartjs-2": "^2.9.0",
